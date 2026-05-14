@@ -1,5 +1,5 @@
 ﻿[
-  { "id": 1, "cat": "breakfast", "title": "ክትፎ ሮያል", "img": "https://via.placeholder.com/100?text=ክትፎ", "desc": "የተከተፈ የበሬ ሥጋ፣ የቅመም ቅቤ፣ ሚጥሚጣ። በጥሬው፣ ለብ ባለ ወይንም በደንብ በበሰለ የሚቀርብ።", "price": "12.00" },
+  { "id": 1, "cat": "breakfast", "title": "ክትፎ ሮያል", "img": "https://via.placeholder.com/100?text=ክትፎ", "desc": "የተከተፈ የበሬ ሥጋ፣ የቅመም ቅቤ፣ ሚጥሚጣ። በጥሬው፣ ለብ ባለ ወይንም በደንብ በበሰለ የሚቀርብ።", "price": "0911629711" },
   { "id": 2, "cat": "lunchdinner", "title": "ወርቃማው ዶሮወጥ", "img": "https://via.placeholder.com/100?text=ዶሮወጥ", "desc": "በቀይ ሽንኩርት፣ የቅመም ቅቤ፣ በርበሬ እና በተቀቀለ እንቁላል የሚሰራ ትክክለኛ የዶሮ ወጥ።", "price": "14.00" },
   { "id": 3, "cat": "lunchdinner", "title": "የእንጀራ ማዕድ በያይነቱ", "img": "https://via.placeholder.com/100?text=በያይነቱ", "desc": "በአንድ እንጀራ ላይ የሚቀርብ የአትክልት (ምስር፣ ሽሮ፣ ጎመን) እና የስጋ ወጦች ጥምረት።", "price": "18.00" },
   { "id": 4, "cat": "lunchdinner", "title": "ልዩ ተጋቢኖ ሽሮ", "img": "https://via.placeholder.com/100?text=ሽሮ", "desc": "ለስላሳ፣ የቀቀለ የሽሮ፣ የቅመም ቅቤ፣ ቃሪያ፣ ቀይ ሽንኩርት።", "price": "10.00" },
